@@ -1,0 +1,7 @@
+black
+isort
+langchain
+langchain-openai
+langgraph
+langchain-community
+python-dotenv
