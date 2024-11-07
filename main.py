@@ -8,7 +8,7 @@ import os
 
 load_dotenv()
 
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = ""
 
 REFLECT = 'reflect'
 GENERATE = 'generate'
